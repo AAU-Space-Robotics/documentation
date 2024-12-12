@@ -1,3 +1,0 @@
-# Documentation Contributions
-
-documentation
